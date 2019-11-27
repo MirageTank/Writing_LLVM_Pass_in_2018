@@ -31,3 +31,9 @@ Hello main
 Hello hello
 ```
 可以跳过llvm反汇编直接在.bc文件上应用pass
+
+
+---
+
+## 参考文献
+- [1] [Writing LLVM Pass in 2018 — Part I](https://medium.com/@mshockwave/writing-llvm-pass-in-2018-part-i-531c700e85eb)
