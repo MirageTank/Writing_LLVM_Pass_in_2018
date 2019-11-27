@@ -1,9 +1,5 @@
 # Writing LLVM Pass in 2018
 
-[toc]
-
----
-
 ## Part I
 ### Build Pass Out of LLVM Source Tree
 ```bash
@@ -14,6 +10,7 @@
 % make -j8
 ```
 然后我们可以在build/hello_new_pm_pass/目录下看到.so文件，就是我们刚刚编译生成的pass
+
 ### Use Pass
 ```bash
 % cd part1/foo
